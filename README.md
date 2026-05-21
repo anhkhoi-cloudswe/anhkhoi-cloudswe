@@ -23,7 +23,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 * 💡 **My Philosophy:** Building clean, resilient code and never backing down from complex system challenges.
 * ☁️ **AWS Intern Alumnus:** Spent 3 valuable months working directly with cloud infrastructure and serverless solutions.
-*  🇯🇵 **Global Mindset:** Currently mastering English and sharpening my skills toward the **Japanese N2** certification.
+* 🔄 **DevOps Mindset:** Actively expanding my skill set to bridge software development with automated operations and infrastructure management.
 
 ---
 
@@ -205,13 +205,6 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 </div>
 
 
-
----
-
-## 🚀 Future Milestones
--  🇯🇵 Attaining **Japanese N2 Certification** to expand global career opportunities.
-- ☁️ Pursuing advanced cloud certifications: **AWS Solutions Architect Professional**.
-- 🏗️ Deep-diving into Event-Driven Architectures and Large-Scale Distributed Systems.
 
 ---
 
