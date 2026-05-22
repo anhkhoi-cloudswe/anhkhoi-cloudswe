@@ -76,22 +76,6 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Utilized headless Playwright to handle dynamic Javascript rendering seamlessly.
   * Implemented strict data validation at the gateway level using `jsonschema` before storing data into MongoDB.
 
-### 3️⃣ Royal Road Data Extraction 📚
-* **Role:** Solo Developer
-* **Core Stack:** Python, Playwright, Requests, MongoDB.
-* **What I Did:**
-  * Built a dual-mode scraping engine targeting "Best Rated" and "Rising Stars" categories.
-  * Handled complex pagination and dynamic state retention across multiple web sessions.
-  * Integrated smart rate limiting and request delays to successfully prevent IP blocking.
-
-### 4️⃣ WebNovel Advanced Scraper 🌐
-* **Role:** Solo Developer
-* **Core Stack:** Python, Playwright, Cookie/Session Management, ETL Processes.
-* **What I Did:**
-  * Created a robust authentication workflow allowing cookie export/import for scraping premium content safely.
-  * Engineered an ETL pipeline to clean, restructure, and transform nested chapter comments into relational structures.
-  * Added cross-platform support with UTF-8 safe logging to ensure stability on both Windows and Linux servers.
-
 ---
 
 ## 📈 My GitHub Contributions
