@@ -200,11 +200,9 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 ### GitHub Streak Stats
 
-<div style="margin: 30px auto; text-align: center;">
-  <img src="https://streak-stats.demolab.com?user=anhkhoi-cloudswe&theme=dark" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoi-cloudswe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-
 
 ---
 
