@@ -140,7 +140,8 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
     <tr style="background: #010409;">
       <td style="border: 1px solid #30363d; color: #c9d1d9; padding: 12px; font-weight: bold;">☁️ Cloud & DevOps</td>
       <td style="border: 1px solid #30363d; color: #8b949e; padding: 12px;">
-        <strong style="color: #58a6ff;">AWS Lambda</strong> • 
+        <strong style="color: #58a6ff;">AWS SES</strong> • 
+        <strong style="color: #58a6ff;">AWS SQS</strong> •         
         <strong style="color: #58a6ff;">AWS S3</strong> • 
         <strong style="color: #58a6ff;">Docker</strong> • 
         <strong style="color: #58a6ff;">ECS</strong> •        
