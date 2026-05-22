@@ -142,9 +142,8 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
       <td style="border: 1px solid #30363d; color: #8b949e; padding: 12px;">
         <strong style="color: #58a6ff;">AWS Lambda</strong> • 
         <strong style="color: #58a6ff;">AWS S3</strong> • 
-        <strong style="color: #58a6ff;">AWS Systems Manager</strong> • 
-        <strong style="color: #58a6ff;">AWS X-Ray</strong> • 
         <strong style="color: #58a6ff;">Docker</strong> • 
+        <strong style="color: #58a6ff;">ECS</strong> •        
         <strong style="color: #58a6ff;">ECR</strong>
       </td>
     </tr>
