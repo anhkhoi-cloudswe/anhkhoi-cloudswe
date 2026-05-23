@@ -42,7 +42,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 ### **Cloud & Databases**
 <div style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-Serverless-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda"/>
+  <img src="https://img.shields.io/badge/AWS%20ECS-Containers-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" alt="AWS ECS"/>
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -62,8 +62,8 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 ### 1️⃣ FPT Event Management System 🎟️
 * **Role:** Backend Lead & Full-Stack Developer
-* **Core Stack:** Go (Clean Architecture), Gin, GORM, React 18, TypeScript, AWS Lambda, MySQL.
-* **What I Did:** * Refactored the core system into a **Serverless Microservices** architecture using AWS Lambda to reduce operational costs.
+* **Core Stack:** Go (Clean Architecture), Gin, GORM, React 18, TypeScript, AWS ECS, MySQL.
+* **What I Did:** * Refactored the core system into a **Serverless Microservices** architecture using AWS ECS to reduce operational costs.
   * Designed and built the complete user flow from a scalable Go backend to a dynamic React frontend.
   * Integrated secure JWT authentication, role-based access control (RBAC), and Google reCAPTCHA validation.
   * Implemented an automated ticket validation system using dynamic PDF and QR-Code generation.
