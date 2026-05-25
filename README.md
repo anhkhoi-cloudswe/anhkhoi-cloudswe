@@ -60,7 +60,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 ## 📁 Featured Projects
 
-### 1️⃣ FPT Event Management System 🎟️
+### 1️⃣ FPT Event Management System 🎟️ (Visit our website: https://fpt-event.vercel.app)
 * **Role:** Backend Lead & Full-Stack Developer
 * **Core Stack:** Go (Clean Architecture), Gin, GORM, React 18, TypeScript, AWS ECS, MySQL.
 * **What I Did:** * Refactored the core system into a **Serverless Microservices** architecture using AWS ECS to reduce operational costs.
