@@ -176,14 +176,6 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 ---
 
-### GitHub Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoi-cloudswe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
