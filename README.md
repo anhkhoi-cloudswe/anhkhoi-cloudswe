@@ -85,16 +85,9 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 ### GitHub Stats Overview
 
-<table border="0" cellpadding="20" cellspacing="0" style="margin: 0 auto; width: 100%;">
-  <tr>
-    <td align="center" width="50%" style="border-right: 1px solid #30363d; padding: 15px;">
-      <img src="https://github-readme-stats.shion.dev/api?username=anhkhoi-cloudswe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%" style="padding: 15px;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anhkhoi-cloudswe&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.vercel.app/?user=anhkhoi-cloudswe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
