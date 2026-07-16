@@ -64,7 +64,8 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 * **Website:** https://fpt-event.vercel.app
 * **Role:** Backend Lead & Full-Stack Developer
 * **Core Stack:** Go (Clean Architecture), Gin, GORM, React 18, TypeScript, AWS ECS, MySQL.
-* **What I Did:** * Refactored the core system into a **Serverless Microservices** architecture using AWS ECS to reduce operational costs.
+* **What I Did:**
+  * Refactored the core system into a **Serverless Microservices** architecture using AWS ECS to reduce operational costs.
   * Designed and built the complete user flow from a scalable Go backend to a dynamic React frontend.
   * Integrated secure JWT authentication, role-based access control (RBAC), and Google reCAPTCHA validation.
   * Implemented an automated ticket validation system using dynamic PDF and QR-Code generation.
