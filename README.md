@@ -70,7 +70,18 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Integrated secure JWT authentication, role-based access control (RBAC), and Google reCAPTCHA validation.
   * Implemented an automated ticket validation system using dynamic PDF and QR-Code generation.
 
-### 2️⃣ MeTruyen Data Crawler 🕷️
+### 2️⃣ Mật Danh Bò Bịa (Anh Bò Bía Game 3D) 🕵️‍♂️🎮
+* **Repository:** [Mat_Danh_Bo_Bia](https://github.com/anhkhoi-cloudswe/Mat_Danh_Bo_Bia)
+* **Role:** Project Manager & Main Lead
+* **Core Stack:** Unity Editor 6000.4.6f1, C# (Game Logic), WinRAR SFX Archive (Deployment Optimization).
+* **What I Did:**
+  * Coordinated project milestones and authored the narrative script/screenplay for the game plot.
+  * Developed the core UI systems, including the interactive Main Menu and persistent state systems.
+  * Authored dynamic camera sequences and immersive cutscenes using Unity Timeline and Cinemachine Virtual Cameras.
+  * Supervised and optimized 3D character models and environments, ensuring seamless performance.
+  * Conducted isolated deployment builds, removing heavy graphical assets from public source repositories via advanced `.gitignore` controls while distributing an all-in-one standalone executable (`.exe`).
+
+### 3️⃣ MeTruyen Data Crawler 🕷️
 * **Role:** Solo Developer
 * **Core Stack:** Python, Playwright, BeautifulSoup4, MongoDB, Jsonschema.
 * **What I Did:**
