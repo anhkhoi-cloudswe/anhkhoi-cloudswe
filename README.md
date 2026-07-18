@@ -71,7 +71,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Integrated secure JWT authentication, role-based access control (RBAC), and Google reCAPTCHA validation.
   * Implemented an automated ticket validation system using dynamic PDF and QR-Code generation.
 
-### 2️⃣ Mật Danh Bò Bịa (Anh Bò Bía Game 3D) 🕵️‍♂️🎮
+### 2️⃣ Mật Danh Bò Bía (Anh Bò Bía Game 3D) 🕵️‍♂️🎮
 * **Repository:** [Mat_Danh_Bo_Bia](https://github.com/anhkhoi-cloudswe/Mat_Danh_Bo_Bia)
 * **Role:** Project Manager & Main Lead
 * **Core Stack:** Unity Editor 6000.4.6f1, C# (Game Logic), WinRAR SFX Archive (Deployment Optimization).
