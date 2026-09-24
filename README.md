@@ -95,11 +95,8 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 * **Role:** Solo Full-Stack Developer & Extension Architect
 * **Core Stack:** JavaScript (ES6+), Chrome Extension (Manifest V3), Google Gemini 3.6/3.8 Flash API, HTML5/CSS3 (Glassmorphism), Marked.js, Vercel.
 * **What I Did:**
-  * Engineered a full-featured Chrome & Edge Extension and Web App that automatically sanitizes hidden prompt injection traps and solves 10+ Coursera assessment questions simultaneously via Gemini Flash API in ~2s.
+  * Engineered a full-featured Chrome & Edge Extension and Web App that monitors completion checkmarks, fast-forwards lectures, auto-completes Discussion Prompts ("AMAZING GOOD JOB!"), and skips modules smoothly.
   * Built a Multi-Key API Rotation Engine supporting up to 3 API keys to seamlessly bypass Rate Limits (20 req/min) without disrupting workflow.
-  * Developed an Adaptive Video Engine that monitors completion checkmarks, fast-forwards lectures, auto-completes Discussion Prompts ("AMAZING GOOD JOB!"), and skips modules smoothly.
-  * Built an automated 4-submission Peer Review grading engine that selects maximum rubric scores, inputs feedback, and completes peer reviews sequentially.
-  * Designed an interactive 360-degree fluid draggable floating HUD with responsive Glassmorphism UI and strict Anti-Coursera CSS isolation.
 
 ### 5️⃣ MeTruyen Data Crawler 🕷️
 * **Role:** Solo Developer
