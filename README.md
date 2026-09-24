@@ -67,7 +67,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Integrated secure JWT authentication, role-based access control (RBAC), and Google reCAPTCHA validation.
   * Implemented an automated ticket validation system using dynamic PDF and QR-Code generation.
 
-### 2️⃣ Mật Danh Bò Bía (Anh Bò Bía Game 3D) 🕵️‍♂️🎮
+### 2️⃣ Mật Danh Bò Bía 🕵️‍♂️🎮
 * **Repository:** [Mat_Danh_Bo_Bia](https://github.com/anhkhoi-cloudswe/Mat_Danh_Bo_Bia)
 * **Link Game:** https://anhkhoi-cloudswe.itch.io/bo-bia-agent
 * **Role:** Project Manager & Main Lead
@@ -79,7 +79,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Supervised and optimized 3D character models and environments, ensuring seamless performance.
   * Conducted isolated deployment builds, removing heavy graphical assets from public source repositories via advanced `.gitignore` controls while distributing an all-in-one standalone executable (`.exe`).
 
-### 3️⃣ MarkItDown.UI — Universal Document Converter Web Application 📄
+### 3️⃣ MarkItDown.UI 📄
 * **Repository:** [MarkItDown.UI](https://github.com/anhkhoi-cloudswe/MarkItDown.UI)
 * **Live Demo (Frontend CDN):** https://anhkhoi-cloudswe.github.io/MarkItDown.UI/ , https://markitdown-ui-anhkhoi.vercel.app/
 * **Role:** Solo Full-Stack Developer & UI/UX Architect
