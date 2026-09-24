@@ -18,7 +18,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 ### **Languages & Frameworks**
 <div>
@@ -55,7 +55,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 ---
 
-## 📁 Featured Projects
+## 📁 FEATURED PROJECTS
 
 ### 1️⃣ FPT Event Management System 🎟️
 * **Website:** https://fpt-event.vercel.app
