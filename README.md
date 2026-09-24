@@ -79,7 +79,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Supervised and optimized 3D character models and environments, ensuring seamless performance.
   * Conducted isolated deployment builds, removing heavy graphical assets from public source repositories via advanced `.gitignore` controls while distributing an all-in-one standalone executable (`.exe`).
 
-### 3️⃣ MarkItDown.UI — Universal Document Converter Web Application 📄🚀
+### 3️⃣ MarkItDown.UI — Universal Document Converter Web Application 📄
 * **Repository:** [MarkItDown.UI](https://github.com/anhkhoi-cloudswe/MarkItDown.UI)
 * **Live Demo (Frontend CDN):** https://anhkhoi-cloudswe.github.io/MarkItDown.UI/ , https://markitdown-ui-anhkhoi.vercel.app/
 * **Role:** Solo Full-Stack Developer & UI/UX Architect
