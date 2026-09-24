@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<h1>👋 Welcome to My Space! I'm Anh Khoi</h1>  
+<h1> Hey! I'm Anh Khoi</h1>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;AWS+Intern+Alumnus;Automation+%26+Scraping+Specialist)](https://github.com/anhkhoi-cloudswe)
 
@@ -20,10 +20,6 @@
 ## 🌟 About Me
 
 I am a 3rd-year **Software Engineering** student at **FPT University**, focusing heavily on backend architectures, cloud infrastructure, and automated data pipelines. 
-
-* 💡 **My Philosophy:** Building clean, resilient code and never backing down from complex system challenges.
-* ☁️ **AWS Intern Alumnus:** Spent 3 valuable months working directly with cloud infrastructure and serverless solutions.
-* 🔄 **DevOps Mindset:** Actively expanding my skill set to bridge software development with automated operations and infrastructure management.
 
 ---
 
@@ -87,7 +83,18 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Supervised and optimized 3D character models and environments, ensuring seamless performance.
   * Conducted isolated deployment builds, removing heavy graphical assets from public source repositories via advanced `.gitignore` controls while distributing an all-in-one standalone executable (`.exe`).
 
-### 3️⃣ MeTruyen Data Crawler 🕷️
+### 3️⃣ MarkItDown.UI — Universal Document Converter Web Application 📄🚀
+* **Repository:** [MarkItDown.UI](https://github.com/anhkhoi-cloudswe/MarkItDown.UI)
+* **Live Demo (Frontend CDN):** https://anhkhoi-cloudswe.github.io/MarkItDown.UI/ , https://markitdown-ui-anhkhoi.vercel.app/
+* **Role:** Solo Full-Stack Developer & UI/UX Architect
+* **Core Stack:** Python, FastAPI, Microsoft MarkItDown, OpenAI GPT-4o, HTML5/CSS3 (Neo-Brutalism), Vanilla JS, Docker, Render, GitHub Pages / Vercel.
+* **What I Did:**
+  * Developed a web app powered by Microsoft MarkItDown engine to convert **PDF, Office docs, images, and audio** into **structured Markdown/HTML/JSON**.
+  * Designed a high-contrast, modern **UI/UX** supporting **(EN/VI)** and responsive layouts across Desktop and Mobile.
+  * Enforced server-side stream validation **(50MB/file limit)** to prevent server OOM crashes.
+
+
+### 4️⃣ MeTruyen Data Crawler 🕷️
 * **Role:** Solo Developer
 * **Core Stack:** Python, Playwright, BeautifulSoup4, MongoDB, Jsonschema.
 * **What I Did:**
