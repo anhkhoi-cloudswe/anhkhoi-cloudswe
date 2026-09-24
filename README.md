@@ -40,6 +40,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5/CSS3-Neo--Brutalism-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5/CSS3"/>
 </div>
+
 ### **Cloud & Databases**
 <div style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -51,6 +52,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQL%20Server-Enterprise-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </div>
+
 ### **Automation & Tools**
 <div style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/Playwright-Testing-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
