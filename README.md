@@ -89,7 +89,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Designed a high-contrast, modern **UI/UX** supporting **(EN/VI)** and responsive layouts across Desktop and Mobile.
   * Enforced server-side stream validation **(50MB/file limit)** to prevent server OOM crashes.
 
-### 4️⃣ Coursera Helper — Quiz Cleaner & AI Solver 🚀
+### 4️⃣ Coursera Helper 🚀
 * **Repository:** [coursera-helper](https://github.com/anhkhoi-cloudswe/coursera-helper)
 * **Live Demo (Web App):** https://coursera-helper.vercel.app
 * **Role:** Solo Full-Stack Developer & Extension Architect
