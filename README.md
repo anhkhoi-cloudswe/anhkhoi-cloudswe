@@ -1,4 +1,3 @@
-
 <div align="center">
   
 <h1> Hey! I'm Anh Khoi</h1>  
@@ -20,6 +19,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 ---
 
 ## 🛠️ Tech Stack
+
 ### **Languages & Frameworks**
 <div>
   <img src="https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -89,8 +89,19 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
   * Designed a high-contrast, modern **UI/UX** supporting **(EN/VI)** and responsive layouts across Desktop and Mobile.
   * Enforced server-side stream validation **(50MB/file limit)** to prevent server OOM crashes.
 
+### 4️⃣ Coursera Helper — Quiz Cleaner & AI Solver 🚀
+* **Repository:** [coursera-helper](https://github.com/anhkhoi-cloudswe/coursera-helper)
+* **Live Demo (Web App):** https://coursera-helper.vercel.app
+* **Role:** Solo Full-Stack Developer & Extension Architect
+* **Core Stack:** JavaScript (ES6+), Chrome Extension (Manifest V3), Google Gemini 3.6/3.8 Flash API, HTML5/CSS3 (Glassmorphism), Marked.js, Vercel.
+* **What I Did:**
+  * Engineered a full-featured Chrome & Edge Extension and Web App that automatically sanitizes hidden prompt injection traps and solves 10+ Coursera assessment questions simultaneously via Gemini Flash API in ~2s.
+  * Built a Multi-Key API Rotation Engine supporting up to 3 API keys to seamlessly bypass Rate Limits (20 req/min) without disrupting workflow.
+  * Developed an Adaptive Video Engine that monitors completion checkmarks, fast-forwards lectures, auto-completes Discussion Prompts ("AMAZING GOOD JOB!"), and skips modules smoothly.
+  * Built an automated 4-submission Peer Review grading engine that selects maximum rubric scores, inputs feedback, and completes peer reviews sequentially.
+  * Designed an interactive 360-degree fluid draggable floating HUD with responsive Glassmorphism UI and strict Anti-Coursera CSS isolation.
 
-### 4️⃣ MeTruyen Data Crawler 🕷️
+### 5️⃣ MeTruyen Data Crawler 🕷️
 * **Role:** Solo Developer
 * **Core Stack:** Python, Playwright, BeautifulSoup4, MongoDB, Jsonschema.
 * **What I Did:**
