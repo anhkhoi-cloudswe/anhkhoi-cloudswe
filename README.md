@@ -81,7 +81,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**, focusing
 
 ### 3️⃣ MarkItDown.UI 📄
 * **Repository:** [MarkItDown.UI](https://github.com/anhkhoi-cloudswe/MarkItDown.UI)
-* **Live Demo (Frontend CDN):** https://anhkhoi-cloudswe.github.io/MarkItDown.UI/ , https://markitdown-ui-anhkhoi.vercel.app/
+* **Live Demo (Frontend CDN):** https://anhkhoi-cloudswe.github.io/MarkItDown.UI/
 * **Role:** Solo Full-Stack Developer & UI/UX Architect
 * **Core Stack:** Python, FastAPI, Microsoft MarkItDown, OpenAI GPT-4o, HTML5/CSS3 (Neo-Brutalism), Vanilla JS, Docker, Render, GitHub Pages / Vercel.
 * **What I Did:**
