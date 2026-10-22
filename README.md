@@ -67,14 +67,6 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
 
 ---
 
-**OJT Organization**
-
-<p style="margin-top: 15px; font-size: 14px; color: #8b949e;">
-  <strong> Owner at <a href="https://github.com/FPT-EVENT-MANAGEMENT-OJT" style="color: #58a6ff;">FPT Event Management OJT Organization</a></strong>
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
