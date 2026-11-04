@@ -37,7 +37,15 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
   * Developed the core UI systems, including the interactive Main Menu and persistent state systems.
   * Authored dynamic camera sequences and immersive cutscenes using Unity Timeline and Cinemachine Virtual Cameras.
 
-### 3️⃣ MarkItDown.UI 📄
+### 3️⃣ FamlyKin 🌳
+* **Repository:** [family-tree](https://github.com/anhkhoi-cloudswe/family-tree)
+* **Role:** Solo Full-Stack Developer & Product Architect
+* **Core Stack:** React 18, TypeScript, Vite, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, Supabase, Firebase, Docker.
+* **What I Did:**
+  * Designed and developed a digital family tree platform for managing family members, relationships, branches, and genealogical information.
+  * Built interactive family tree visualization, member profiles, kinship mapping, lunar death-anniversary tracking, reminders, and Excel export.
+
+### 4️⃣ MarkItDown.UI 📄
 * **Repository:** [MarkItDown.UI](https://github.com/anhkhoi-cloudswe/MarkItDown.UI)
 * **Live Demo (Frontend CDN):** https://anhkhoi-cloudswe.github.io/MarkItDown.UI/
 * **Role:** Solo Full-Stack Developer & UI/UX Architect
@@ -47,7 +55,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
   * Designed a high-contrast, modern **UI/UX** supporting **(EN/VI)** and responsive layouts across Desktop and Mobile.
   * Enforced server-side stream validation **(50MB/file limit)** to prevent server OOM crashes.
 
-### 4️⃣ Coursera Helper 🚀
+### 5️⃣ Coursera Helper 🚀
 * **Repository:** [coursera-helper](https://github.com/anhkhoi-cloudswe/coursera-helper)
 * **Live Demo (Web App):** https://coursera-helper.vercel.app
 * **Role:** Solo Full-Stack Developer & Extension Architect
