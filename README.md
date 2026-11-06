@@ -70,7 +70,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
 ### GitHub Stats Overview
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=anhkhoi-cloudswe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.onrender.com/?user=anhkhoi-cloudswe&theme=tokyonight&hide_border=true%22%20alt=%22GitHub%20Streak" alt="GitHub Streak" />
 </div>
 
 ---
