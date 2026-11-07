@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;AWS+Intern+Alumnus;Automation+%26+Scraping+Specialist)](https://github.com/anhkhoi-cloudswe)
 
-*"Fall down seven times, stand up eight. Continuous learning is my only path forward."* 🚀
+*"Fall down seven times, stand up eight. Continuous learning is my only path forward."*
 
-## 🌟 About Me
+## About Me
 
 I am a 3rd-year **Software Engineering** student at **FPT University**
 
