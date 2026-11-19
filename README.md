@@ -16,7 +16,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
 
 ---
 
-## 📁 FEATURED PROJECTS
+# 📁 FEATURED PROJECTS
 
 ### 1️⃣ FPT Event Management System 🎟️
 * **Website:** https://fpt-event.vercel.app
@@ -63,7 +63,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
 
 ---
 
-## 📈 My GitHub Contributions
+### 📈 My GitHub Contributions
 
 <div align="center">
 
@@ -75,7 +75,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
 
 ---
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
 <div align="center">
 
