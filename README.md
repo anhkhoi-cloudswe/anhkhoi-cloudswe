@@ -63,11 +63,9 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
 
 ---
 
-### 📈 My GitHub Contributions
-
 <div align="center">
 
-### GitHub Stats Overview
+### 📈 My GitHub Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=anhkhoi-cloudswe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
