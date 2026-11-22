@@ -69,9 +69,15 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
 
 ### GitHub Stats Overview
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=anhkhoi-cloudswe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anhkhoi-cloudswe&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://nirzak-streak-stats.onrender.com/?user=anhkhoi-cloudswe&theme=tokyonight&hide_border=true%22%20alt=%22GitHub%20Streak" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
