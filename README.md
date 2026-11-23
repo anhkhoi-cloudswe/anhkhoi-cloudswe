@@ -10,8 +10,12 @@
 
 I am a 3rd-year **Software Engineering** student at **FPT University**
 
-[📖 Portfolio](https://anhkhoi-cloudswe.github.io/ANHKHOI-WORKSHOP-FCJ/) • [💼 LinkedIn](https://linkedin.com/in/anh-khôi) • [📧 Contact](mailto:ahkhoinguyen169@gmail.com)
+[🆙 Upwork](https://www.upwork.com/freelancers/~0143d78777bef8188f) • [📖 Portfolio](https://anhkhoi-cloudswe.github.io/ANHKHOI-WORKSHOP-FCJ/) • [💼 LinkedIn](https://linkedin.com/in/anh-khôi) • [📧 Contact](mailto:ahkhoinguyen169@gmail.com)
 
+<p style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Built%20with-❤️-red?style=flat-square" alt="Built with love"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-green?style=flat-square" alt="Status"/>
+</p>
 </div>
 
 ---
@@ -78,16 +82,3 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
 </p>
 
 ---
-
-### 🔗 Connect With Me
-
-<div align="center">
-
-🌐 **[GitHub](https://github.com/anhkhoi-cloudswe)** | 💼 **[LinkedIn](https://linkedin.com/in/anh-khôi)** | 📧 **[Email](mailto:ahkhoinguyen169@gmail.com)**
-
-<p style="margin-top: 15px;">
-  <img src="https://img.shields.io/badge/Built%20with-❤️-red?style=flat-square" alt="Built with love"/>
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-green?style=flat-square" alt="Status"/>
-</p>
-
-</div>
