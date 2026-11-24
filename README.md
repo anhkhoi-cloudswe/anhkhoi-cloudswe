@@ -42,7 +42,7 @@ I am a 3rd-year **Software Engineering** student at **FPT University**
   * Authored dynamic camera sequences and immersive cutscenes using Unity Timeline and Cinemachine Virtual Cameras.
 
 ### 3️⃣ FamlyKin 🌳
-* **Repository:** [family-tree](https://github.com/anhkhoi-cloudswe/family-tree)
+* **Website:** https://famlykin.io.vn
 * **Role:** Solo Full-Stack Developer & Product Architect
 * **Core Stack:** React 18, TypeScript, Vite, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, Supabase, Firebase, Docker.
 * **What I Did:**
